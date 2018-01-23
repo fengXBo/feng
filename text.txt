@@ -1,1 +1,3 @@
 dassadasdsadsa
+
+$ cd FileName  进入文件夹
